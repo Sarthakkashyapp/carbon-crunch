@@ -42,8 +42,8 @@ const Navbar = () => {
             <a href="#" className="text-gray-800 hover:text-gray-600">About Us</a>
             <a href="#" className="text-gray-800 hover:text-gray-600">Contact</a>
             <div className="flex flex-col space-y-2">
-              <button className="py-2 px-4 rounded-full bg-green-100 text-green-500 hover:bg-green-200">Login</button>
-              <button className="py-2 px-4 rounded-full bg-green-500 text-black hover:bg-green-600">Book Demo</button>
+              <button className="py-2 px-4 rounded-full bg-green-100 text-green-500 hover:bg-green-200 font-bold">Login</button>
+              <button className="py-2 px-4 rounded-full bg-green-500 text-black hover:bg-green-600 font-bold">Book Demo</button>
             </div>
           </div>
         </div>
