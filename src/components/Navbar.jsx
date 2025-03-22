@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Logo from "../assets/Logo.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -6,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white py-4 px-6 md:px-12 flex items-center justify-between shadow-sm">
       <div className="flex items-center">
-        <img src="./src/assets/Logo.png" alt="Carbon Crunch Logo" className="h-8" />
+        <img src={Logo} alt="Carbon Crunch Logo" className="h-8" />
       </div>
       
       {/* Desktop Navigation */}
