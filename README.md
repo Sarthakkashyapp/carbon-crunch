@@ -33,13 +33,4 @@ Carbon Crunch is a platform designed to provide real-time carbon tracking and in
    npm run dev
    ```
 
-## Deployment
-You can deploy this project on **Vercel** by following these steps:
-1. Visit [Vercel](https://vercel.com/) and log in.
-2. Click on "New Project" and import your GitHub repository.
-3. Follow the setup instructions and deploy your project.
-
-## License
-This project is licensed under the MIT License.
-
 
